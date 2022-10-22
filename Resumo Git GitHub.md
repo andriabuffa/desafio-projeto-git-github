@@ -38,4 +38,4 @@
 
 ### Resumo de como funciona Untracked e tracked:
 
-[imagem sobre tracked and untracked - Google Search](https://www.google.com/search?q=imagem+sobre+tracked+and+untracked&sxsrf=ALiCzsYBDPp2Z-VF4Uvshe27es1O84kdng:1666408574787&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiujZrZ7_L6AhVBQ7gEHRkTC8IQ_AUoAnoECAIQBA&biw=1366&bih=625&dpr=1#imgrc=XJpRtwdu0srZiM)[imagem sobre tracked and untracked - Google Search](https://www.google.com/search?q=imagem+sobre+tracked+and+untracked&sxsrf=ALiCzsYBDPp2Z-VF4Uvshe27es1O84kdng:1666408574787&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiujZrZ7_L6AhVBQ7gEHRkTC8IQ_AUoAnoECAIQBA&biw=1366&bih=625&dpr=1#imgrc=XJpRtwdu0srZiM)![Imagem sobre tracked e untracked]()
+https://i.stack.imgur.com/kslSd.png![Imagem:]()
