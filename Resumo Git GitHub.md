@@ -1,8 +1,4 @@
-
-
 # Comandos para o Git: :point_down:
-
-
 
 - git config --global  **Configurar user.email e user.name "".**
 
@@ -24,8 +20,6 @@
 
 - git pull origin **Atualiza o local.**
 
-
-
 - cd **Entrar em outro terminal/pasta** e cd.. **Volta o terminal/pasta.**
 
 - dir e ls **Listar o que tem dentro do terminal/pasta.**
@@ -36,18 +30,12 @@
 
 - control + l **Limpar tela do git bash**
 
-
-
 #### Sha1 - Incriptação de 40 caracteres.
 
 #### Commit (Tree/ parente/ autor/ mensagem) :arrow_right: Tree (Blob) :arrow_right: Blob (conteúdo).
 
 - Commit é impossível de ser alterado, pois é um sistema distribuido e seguro!
 
-
-
 ### Resumo de como funciona Untracked e tracked:
 
-![](C:\Users\Yoga\Desktop\Untracked%20tracked.jpg)
-
-
+[imagem sobre tracked and untracked - Google Search](https://www.google.com/search?q=imagem+sobre+tracked+and+untracked&sxsrf=ALiCzsYBDPp2Z-VF4Uvshe27es1O84kdng:1666408574787&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiujZrZ7_L6AhVBQ7gEHRkTC8IQ_AUoAnoECAIQBA&biw=1366&bih=625&dpr=1#imgrc=XJpRtwdu0srZiM)[imagem sobre tracked and untracked - Google Search](https://www.google.com/search?q=imagem+sobre+tracked+and+untracked&sxsrf=ALiCzsYBDPp2Z-VF4Uvshe27es1O84kdng:1666408574787&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiujZrZ7_L6AhVBQ7gEHRkTC8IQ_AUoAnoECAIQBA&biw=1366&bih=625&dpr=1#imgrc=XJpRtwdu0srZiM)![Imagem sobre tracked e untracked]()
