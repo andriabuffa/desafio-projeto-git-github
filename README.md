@@ -13,3 +13,5 @@ Repositório criado para o desafio de projeto.
 - [Resumo sobre Git e GitHub]([desafio-projeto-git-github/Resumo Git GitHub.md at main · andriabuffa/desafio-projeto-git-github · GitHub](https://github.com/andriabuffa/desafio-projeto-git-github/blob/main/Resumo%20Git%20GitHub.md))
 
 - [Resumo Introdução sobre desenvolvimento de sistemas]([desafio-projeto-git-github/Resumo Introdução ao desenvolvimento de sistemas.md at main · andriabuffa/desafio-projeto-git-github · GitHub](https://github.com/andriabuffa/desafio-projeto-git-github/blob/main/Resumo%20Introdu%C3%A7%C3%A3o%20ao%20desenvolvimento%20de%20sistemas.md))
+
+- [Resumo Primeiros passos para começar a programar](https://github.com/andriabuffa/desafio-projeto-git-github/blob/main/Resumo%20Primeiros%20passos%20para%20programar.md)
