@@ -1,6 +1,6 @@
-# # Introdução ao desenvolvimento de sistemas:
+# Introdução ao desenvolvimento de sistemas:
 
-- Sistema desktop x web x aplicação móvel (app).
+Sistema desktop x web x aplicação móvel (app).
 
 
 
@@ -18,8 +18,6 @@
 
 - **QA (Quality Assurance):** Cuida da qualidade do software e verifica se todos os requisitos mínimos esperado serão entregues.
 
-
-
 ##### Outros pontos:
 
 - **Onde é criado os códigos?  IDE** - Softaware de desenvolvimento integrado com ferramentas comuns em uma única interface gráfica do usuário (GUI), ex: VSC da Microsoft ou qualquer editor de texto comum.
@@ -33,5 +31,3 @@
 - **Cloud (pública):** Armazenamento de dados via internet. Profissionais de cloud computing - responsáveis pela infraestrutura de nuvem.
 
 - **Mobile:** Linguagem Back end é o mesmo usado pela web. Já o Front end é diferente da web. Para Android usa o JAVA / KOTLIN/ Android Studio, para o IOS usa o SWIFT/ X-Code. Para o desenvolvimento híbrido, não indicado/ideal para jogos, (Android e IOS) usa IONIC/ FLUTTER/ REACT NATIVE. 
-
-
