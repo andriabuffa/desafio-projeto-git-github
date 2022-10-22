@@ -8,4 +8,8 @@ Repositório criado para o desafio de projeto.
 
 2. [Markdown - Emojis](https://dev.to/nikolab/complete-list-of-github-markdown-emoji-markup-5aia)
 
-3. 
+### Meus resumos disponíveis:
+
+- [Resumo sobre Git e GitHub]([desafio-projeto-git-github/Resumo Git GitHub.md at main · andriabuffa/desafio-projeto-git-github · GitHub](https://github.com/andriabuffa/desafio-projeto-git-github/blob/main/Resumo%20Git%20GitHub.md))
+
+- [Resumo Introdução sobre desenvolvimento de sistemas]([desafio-projeto-git-github/Resumo Introdução ao desenvolvimento de sistemas.md at main · andriabuffa/desafio-projeto-git-github · GitHub](https://github.com/andriabuffa/desafio-projeto-git-github/blob/main/Resumo%20Introdu%C3%A7%C3%A3o%20ao%20desenvolvimento%20de%20sistemas.md))
