@@ -1,4 +1,8 @@
-# Comandos para o Git: :point_down:
+# Resumo Git e GitHub:
+
+
+
+### Comandos para o Git: :point_down:
 
 - git config --global  **Configurar user.email e user.name "".**
 
@@ -30,11 +34,17 @@
 
 - control + l **Limpar tela do git bash**
 
-#### Sha1 - Incriptação de 40 caracteres.
 
-#### Commit (Tree/ parente/ autor/ mensagem) :arrow_right: Tree (Blob) :arrow_right: Blob (conteúdo).
+
+### Outros:
+
+- Sha1 - Incriptação de 40 caracteres.
+
+- Commit (Tree/ parente/ autor/ mensagem) :arrow_right: Tree (Blob) :arrow_right: Blob (conteúdo).
 
 - Commit é impossível de ser alterado, pois é um sistema distribuido e seguro!
+
+
 
 ### Resumo de como funciona Untracked e tracked:
 
